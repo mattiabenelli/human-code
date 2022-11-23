@@ -1,0 +1,13 @@
+PROBLEMA: prendere una pizza
+INIZIO
+prendere listino pizze
+    controllo se c'è la mia pizza
+        cerco una pizza che mi piaccia
+        altrimenti se c'è la pizza "prosciutto e funghi" prendila
+    la pizza arriva
+    riesco a finire la pizza
+        si era buona :)
+        no la metto in frigo
+FINE
+
+    
